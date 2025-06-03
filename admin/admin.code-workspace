@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../api"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../database"
+		},
+		{
+			"path": "../includes"
+		},
+		{
+			"path": "../logs"
+		},
+		{
+			"path": "../traffic_engine"
+		}
+	]
+}
